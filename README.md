@@ -1,2 +1,2 @@
 # testrepo
-Repository for GiyHub training
+Repository for GitHub training
